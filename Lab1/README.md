@@ -65,4 +65,4 @@ To use this app, follow these steps:
 
 ## References
 
-- Vuori, J, Hjort, P 2023, ‘w1_d5_Recap_DevTools_ComposeUI’, TX00CK66 Sensor Based Mobile Applications, viewed 01 September 2023, https://docs.google.com/presentation/d/1zISNUtQ9waKoC0cXzXoMLK9eAGX4zaLPYfkYW26hpME/edit#slide=id.p.
+- Vuori, J, Hjort, P 2023, ‘w1_d5_Recap_DevTools_ComposeUI’, TX00CK66 Sensor Based Mobile Applications, viewed 01 September 2023, https://github.com/datpt98/sensor-based-mobile-applications/blob/main/Lab1/Lab01.pdf.
