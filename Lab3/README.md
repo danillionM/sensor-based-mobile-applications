@@ -14,7 +14,7 @@ This Android application allows users to download a text file from the web and d
 
 ## Introduction
 
-This Android app project was created as part of a lab exercise for the course "Networking with Threads (Handler)" at [Your University's Name]. The exercise aims to demonstrate the following concepts:
+The exercise aims to demonstrate the following concepts:
 
 - Downloading data from the web using a separate thread.
 - Displaying the downloaded content in a Composable Text.
