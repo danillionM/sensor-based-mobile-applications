@@ -8,12 +8,12 @@ This Android application allows users to view a list of presidents. By tapping o
 - [JetPack Compose Implementation](#jetpack-compose-implementation)
 - [RecyclerView and Fragment Implementation](#recyclerview-and-fragment-implementation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Introduction
 
-This Android app project was created as part of a lab exercise for the course "Sensor Based Mobile Applications" (TX00CK66) at METROPOLIA University of Applied Sciences. The exercise aims to demonstrate the following concepts:
+The exercise aims to demonstrate the following concepts:
 
 - Displaying a list of presidents.
 - Navigating between different screens.
