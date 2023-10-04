@@ -63,6 +63,12 @@ To use this app, follow these steps:
 3. Build and run the app on an Android emulator or a physical device.
 4. Interact with the app using the provided button and text input field.
 
+## Screenshots
+
+<div>
+<img src="./screenshots/1.png" alt="1" width="200"/>
+</div>
+
 ## References
 
 - Vuori, J, Hjort, P 2023, ‘w1_d5_Recap_DevTools_ComposeUI’, TX00CK66 Sensor Based Mobile Applications, viewed 01 September 2023, https://github.com/datpt98/sensor-based-mobile-applications/blob/main/Lab1/Lab01.pdf.
