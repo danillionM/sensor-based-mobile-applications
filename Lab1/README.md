@@ -10,8 +10,8 @@ HelloWorld2 is a simple Android app created using Android Studio that displays "
 - [Phase 3](#phase-3)
 - [Rotating Device Behavior](#rotating-device-behavior)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#screenshots)
+- [References](#references)
 
 ## Introduction
 

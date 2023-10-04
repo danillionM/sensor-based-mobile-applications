@@ -9,7 +9,7 @@ This Android application allows users to view a list of presidents. By tapping o
 - [RecyclerView and Fragment Implementation](#recyclerview-and-fragment-implementation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
+- [References](#references)
 
 ## Introduction
 

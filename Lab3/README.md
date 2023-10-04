@@ -10,7 +10,7 @@ This Android application allows users to download a text file from the web and d
 - [Network Inspector](#network-inspector)
 - [Permissions](#permissions)
 - [Screenshots](#screenshots)
-- [License](#license)
+- [References](#references)
 
 ## Introduction
 
