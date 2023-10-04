@@ -55,6 +55,7 @@ Ensure that you have the required permissions for internet communication in the 
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+```
 
 ## Screenshots
 
