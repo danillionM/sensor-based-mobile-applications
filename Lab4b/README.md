@@ -10,8 +10,8 @@ This Android application allows users to download an image from the web and disp
 - [Network Inspector](#network-inspector)
 - [Permissions](#permissions)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#screenshots)
+- [References](#references)
 
 ## Introduction
 
